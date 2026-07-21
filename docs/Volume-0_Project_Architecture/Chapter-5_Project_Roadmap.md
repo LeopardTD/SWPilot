@@ -21,42 +21,43 @@ Status:
 
 # Phase 2 — Environment Setup
 
-- Install Flutter.
-- Install Android Studio.
-- Install Java.
-- Install Git.
-- Verifikasi environment.
+- [x] Install Flutter.
+- [x] Install Android Studio.
+- [x] Install Java.
+- [x] Install Git.
+- [x] Verifikasi environment.
 
 Status:
 
-- [ ] Belum Dimulai
+- [x] Selesai
 
 ---
 
 # Phase 3 — Project Initialization
 
-- Membuat project Flutter.
-- Menyiapkan Git Repository.
-- Menjalankan project pertama.
-- Konfigurasi package.
+- [x] Membuat project Flutter.
+- [x] Menyiapkan Git Repository.
+- [x] Menjalankan project pertama.
+- [x] Konfigurasi package.
 
 Status:
 
-- [ ] Belum Dimulai
+- [x] Selesai
 
 ---
 
 # Phase 4 — UI Development
 
-- Design System
-- Theme
-- Dashboard
-- Settings
-- Statistics
+- [x] Design System
+- [x] Theme
+- [x] Dashboard
+- [ ] Settings
+- [ ] Statistics
 
 Status:
 
-- [ ] Belum Dimulai
+- [/] Sedang Berjalan
+
 
 ---
 
@@ -122,9 +123,10 @@ SWPilot diharapkan menjadi aplikasi Android yang stabil, modular, terdokumentasi
 
 # Checklist
 
-- [ ] Memahami roadmap proyek.
-- [ ] Memahami urutan pengembangan.
-- [ ] Memahami target setiap fase.
+- [x] Memahami roadmap proyek.
+- [x] Memahami urutan pengembangan.
+- [x] Memahami target setiap fase.
+
 
 ---
 

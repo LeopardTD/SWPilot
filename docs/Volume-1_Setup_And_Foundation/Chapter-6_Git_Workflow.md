@@ -31,8 +31,9 @@ Menjelaskan alur penggunaan Git selama pengembangan.
 
 # Checklist
 
-- [ ] Memahami workflow.
-- [ ] Memahami commit convention.
+- [x] Memahami workflow.
+- [x] Memahami commit convention.
+
 
 ---
 

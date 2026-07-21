@@ -30,8 +30,8 @@ Release
 
 ## Progress
 
-- [ ] Volume 1
-- [ ] Volume 2
+- [x] Volume 1
+- [/] Volume 2
 - [ ] Volume 3
 - [ ] Volume 4
 - [ ] Volume 5
@@ -41,4 +41,4 @@ Release
 
 ## Project Status
 
-Planning
+In Progress

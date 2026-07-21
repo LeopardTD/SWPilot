@@ -59,8 +59,9 @@ Berisi source code aplikasi.
 
 # Checklist
 
-- [ ] Struktur folder telah dibuat.
-- [ ] VS Code membuka folder root SWPilot.
+- [x] Struktur folder telah dibuat.
+- [x] VS Code membuka folder root SWPilot.
+
 
 ---
 

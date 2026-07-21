@@ -8,14 +8,15 @@ Melakukan pemeriksaan akhir sebelum memulai pengembangan fitur.
 
 # Checklist
 
-- [ ] Workspace siap.
-- [ ] Dokumentasi siap.
-- [ ] Git siap.
-- [ ] Flutter siap.
-- [ ] Android Studio siap.
-- [ ] VS Code siap.
-- [ ] Emulator siap.
-- [ ] Project dapat dijalankan.
+- [x] Workspace siap.
+- [x] Dokumentasi siap.
+- [x] Git siap.
+- [x] Flutter siap.
+- [x] Android Studio siap.
+- [x] VS Code siap.
+- [x] Emulator siap.
+- [x] Project dapat dijalankan.
+
 
 ---
 

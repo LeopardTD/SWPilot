@@ -84,10 +84,11 @@ Pada akhir pengembangan, SWPilot diharapkan memiliki:
 
 # Checklist
 
-- [ ] Memahami tujuan proyek.
-- [ ] Memahami ruang lingkup.
-- [ ] Memahami teknologi yang akan digunakan.
-- [ ] Memahami struktur dokumentasi.
+- [x] Memahami tujuan proyek.
+- [x] Memahami ruang lingkup.
+- [x] Memahami teknologi yang akan digunakan.
+- [x] Memahami struktur dokumentasi.
+
 
 ---
 

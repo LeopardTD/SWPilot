@@ -23,8 +23,9 @@ Aplikasi berhasil dijalankan.
 
 # Checklist
 
-- [ ] Dependency terpasang.
-- [ ] Aplikasi berjalan.
+- [x] Dependency terpasang.
+- [x] Aplikasi berjalan.
+
 
 ---
 

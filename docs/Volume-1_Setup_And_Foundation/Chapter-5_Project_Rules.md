@@ -46,9 +46,10 @@ docs(volume1): update setup guide
 
 # Checklist
 
-- [ ] Memahami coding rules.
-- [ ] Memahami dokumentasi.
-- [ ] Memahami Git Rules.
+- [x] Memahami coding rules.
+- [x] Memahami dokumentasi.
+- [x] Memahami Git Rules.
+
 
 ---
 
